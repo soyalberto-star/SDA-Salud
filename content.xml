@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260512120044HV21F0</value>
+    <value>20260512133605IVDV7H</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260512120044VPF486</value>
+    <value>202605121336059MQW8I</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -1571,9 +1571,9 @@ Además, se integran distintas áreas como Educación Física, Biología, Inglé
           <odeIdeviceId>idevice-1778228345305-jr6wz6zlz</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p style="text-align: center;"><a href="https://drive.google.com/file/d/15dmu27AV3TUNTlwvUhV52HP1I59DdecS/view?usp=sharing" target="_blank" style="background-color: #4caf50; color: white; padding: 14px 24px; text-decoration: none; border-radius: 10px; font-size: 18px; font-weight: bold; display: inline-block;" rel="noopener"> ⬇ Descargar archivo editable (.elp) </a></p>
+    <p style="text-align: center;"><a href="https://github.com/soyalberto-star/SDA-Salud/raw/main/activate-y-descubre-tu-cuerpo-salud-habitos-y-bien.elpx" download="" style="background-color: #4caf50; color: white; padding: 14px 24px; text-decoration: none; border-radius: 10px; font-size: 18px; font-weight: bold; display: inline-block;"> ⬇ Descargar archivo editable (.elpx) </a></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778228345305-jr6wz6zlz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><a href=\"https://drive.google.com/file/d/15dmu27AV3TUNTlwvUhV52HP1I59DdecS/view?usp=sharing\" target=\"_blank\" style=\"background-color: #4caf50; color: white; padding: 14px 24px; text-decoration: none; border-radius: 10px; font-size: 18px; font-weight: bold; display: inline-block;\" rel=\"noopener\"> ⬇ Descargar archivo editable (.elp) </a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778228345305-jr6wz6zlz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><a href=\"https://github.com/soyalberto-star/SDA-Salud/raw/main/activate-y-descubre-tu-cuerpo-salud-habitos-y-bien.elpx\" download=\"\" style=\"background-color: #4caf50; color: white; padding: 14px 24px; text-decoration: none; border-radius: 10px; font-size: 18px; font-weight: bold; display: inline-block;\"> ⬇ Descargar archivo editable (.elpx) </a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
